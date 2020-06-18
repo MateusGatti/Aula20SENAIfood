@@ -11,12 +11,16 @@ namespace Aula20SENAIfood
             Restaurante hamburgueria = new Restaurante("SENAIfood", "Avenida Francisco Barão");
             Pedido produto = new Pedido();
 
-            produto.FormaPGTO = "Cartão";
+            
 
             System.Console.WriteLine(  mateus.MostrarDados() );
             System.Console.WriteLine( hamburgueria.MostrarDados() );
 
-            string[] Itens = new string[5]{"X Burguer", "X Bacon", "X Salada", "X Tudo", "X Churrasco"};
+            string[] Itens = new string[5]{"XBurguer", "XBacon", "XSalada", "XTudo", "XChurrasco"};
+
+            System.Console.WriteLine("A forma de pagamento será Dinheiro ou Cartão?");
+            produto.FormaPGTO = Console.ReadLine();
+            
 
             if(produto.FormaPGTO == "Dinheiro"){
                 produto.PedidoPago = true;
