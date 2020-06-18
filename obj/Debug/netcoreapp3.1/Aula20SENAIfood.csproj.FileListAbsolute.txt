@@ -1,0 +1,13 @@
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\bin\Debug\netcoreapp3.1\Aula20SENAIfood.exe
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\bin\Debug\netcoreapp3.1\Aula20SENAIfood.deps.json
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\bin\Debug\netcoreapp3.1\Aula20SENAIfood.runtimeconfig.json
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\bin\Debug\netcoreapp3.1\Aula20SENAIfood.runtimeconfig.dev.json
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\bin\Debug\netcoreapp3.1\Aula20SENAIfood.dll
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\bin\Debug\netcoreapp3.1\Aula20SENAIfood.pdb
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\obj\Debug\netcoreapp3.1\Aula20SENAIfood.csprojAssemblyReference.cache
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\obj\Debug\netcoreapp3.1\Aula20SENAIfood.csproj.CoreCompileInputs.cache
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\obj\Debug\netcoreapp3.1\Aula20SENAIfood.AssemblyInfoInputs.cache
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\obj\Debug\netcoreapp3.1\Aula20SENAIfood.AssemblyInfo.cs
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\obj\Debug\netcoreapp3.1\Aula20SENAIfood.dll
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\obj\Debug\netcoreapp3.1\Aula20SENAIfood.pdb
+C:\Users\mtgat\Documents\Projetos\Aula20SENAIfood\obj\Debug\netcoreapp3.1\Aula20SENAIfood.genruntimeconfig.cache
