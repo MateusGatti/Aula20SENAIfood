@@ -35,6 +35,8 @@ namespace Aula20SENAIfood
                 System.Console.WriteLine( produto.EntregarPedido(Itens[2]) );
             }
 
+            // Não consegui fazer a escolha da comida ;-;
+
 
 
         }
