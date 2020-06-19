@@ -17,7 +17,7 @@ namespace Aula20SENAIfood
 
         public string MostrarDados(){
 
-            return $"O nome do restaurante é: {NomeFantasia}, e o endereço dele é: {Endereco}";
+            return $"O nome do restaurante é: {NomeFantasia}, e o endereço dele é: {Endereco}\n";
 
         }
 

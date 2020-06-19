@@ -1,18 +1,29 @@
+using System;
+
 namespace Aula20SENAIfood
 {
     public class Pedido
     {
         
-        public string Itens { get; set; }
-        public string Cliente { get; set; }
-        public string Restaurante { get; set; }
+        public string[] Itens { get; set; }
+        public Cliente Cliente { get; set; }
+        public Restaurante Restaurante { get; set; }
         public string FormaPGTO { get; set; }
         public bool PedidoPago { get; set; }
+        public DateTime DataEntrega { get; set; }
 
-        public string EntregarPedido(string v)
+        public string EntregarPedido()
         {
 
-            return "Seu pedido foi entregue!";
+            DataEntrega = DateTime.Now;
+
+            string retorno = "Seu pedido foi entregue! \n";
+            retorno += Restaurante.MostrarDados();
+            retorno += Cliente.MostrarDados();
+            retorno += DataEntrega;
+
+            return retorno;
+            
 
         }
 
